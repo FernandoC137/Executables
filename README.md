@@ -17,7 +17,7 @@ If you want to run the Python source:
 1. Clone the repository:
 
    ```bash
-   (https://github.com/FernandoC137/Executables)
+   git clone https://github.com/FernandoC137/Executables
    cd portable-launcher
    ```
 2. Install dependency:
