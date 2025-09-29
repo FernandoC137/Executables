@@ -9,7 +9,7 @@ Python-based launcher built with CustomTkinter to manage and run executable file
 * Run a selected application or execute all sequentially.
 * Remove applications from the launcher.
 * Modern UI with CustomTkinter.
-
+* using JSON to handle the paths of each executable
 ## Installation
 
 If you want to run the Python source:
